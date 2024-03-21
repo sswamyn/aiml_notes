@@ -1,4 +1,6 @@
-# aiml_notes## Structure 
+# aiml_notes
+
+## Structure 
 
 * __Introduction__    (10 mts)
 
