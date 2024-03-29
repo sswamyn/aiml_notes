@@ -6,7 +6,7 @@
     How machine learns .. learning algorithms that learns patterns without explicit code. 
     Gen 0.1 --> Expert systems 
     AI --> No explicit code; No domain knowledge [example Google translation]
-    Vocabulary - Attention, Reasoning, Comprehension, Perception, Learning, -- Cognitive computing
+    ##### Vocabulary - Attention, Reasoning, Comprehension, Perception, Learning, -- Cognitive computing
     Cognition - The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses. [Oxford Dictionary]
 
     ML - Parametric learning vs. Non-parametric learning 
