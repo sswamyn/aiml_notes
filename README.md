@@ -1,3 +1,6 @@
+Please use ----recurse-submodules while cloning. 
+```git clone --recurse-submodules ..```
+
 # aiml_notes
 
 ## Structure 
