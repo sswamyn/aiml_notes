@@ -1,5 +1,6 @@
 Please use ----recurse-submodules while cloning. 
-```git clone --recurse-submodules ..```
+
+```git clone --recurse-submodules https://github.com/sswamyn/aiml_notes.git```
 
 # aiml_notes
 
